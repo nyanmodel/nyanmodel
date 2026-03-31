@@ -13,7 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="left"> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nyanmodel&layout=compact&show_icons=true" />
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=nyanmodel&show_icons=ture" />
-</p>
+
+![github stats](https://github-readme-stats-virid-rho-81.vercel.app/api/?username=nyanmodel)
+![top langs](https://github-readme-stats-virid-rho-81.vercel.app//api/top-langs/?username=nyanmodel)
